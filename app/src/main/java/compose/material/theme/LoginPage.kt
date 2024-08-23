@@ -74,7 +74,6 @@ fun LoginPage(navController: NavController) {
 
                 horizontalAlignment = Alignment.CenterHorizontally
             ) {
-
                 //.........................Spacer
                 Spacer(modifier = Modifier.height(50.dp))
 
